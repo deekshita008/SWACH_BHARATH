@@ -1,7 +1,7 @@
 # SWACH_BHARATH
-CONFUSION MATRIX:
+#CONFUSION MATRIX:
 ![confusion_matrix_normalized](https://github.com/deekshita008/SWACH_BHARATH/assets/106685177/10dc4d95-5740-47fd-9853-22e593f1f59f)
-F1 CURVE:
+#F1 CURVE:
 ![F1_curve](https://github.com/deekshita008/SWACH_BHARATH/assets/106685177/46973906-1baf-4c1d-897f-dc9eecce19bf)
 LABELS CORRELOGRAM:
 ![labels_correlogram](https://github.com/deekshita008/SWACH_BHARATH/assets/106685177/21f11f6a-97c8-45f8-85b2-23ca1a92c13e)
